@@ -1,0 +1,114 @@
+en:
+  faker:
+    keyword:
+      email:
+        - inbox
+        - draft
+        - send
+        - letter
+        - dear
+        - regards
+        - to
+        - forward
+        - mail
+        - email
+        - reply
+      education:
+        - teach
+        - edu
+        - study
+        - book
+        - school
+        - skill
+        - board
+        - course
+        - learn
+        - guru
+      job_career:
+        - jon
+        - career
+        - hire
+        - talent
+        - work
+        - team
+        - link
+        - human
+        - crew
+        - board
+      health:
+        - health
+        - labs
+        - micro
+        - med
+        - bio
+        - life
+        - care
+        - well
+      finance:
+        - pay
+        - card
+        - invest
+        - bank
+        - bill
+        - money
+        - lend
+        - spend
+        - save
+        - safe
+        - buy
+        - credit
+      gaming:
+        - game
+        - pad
+        - tap
+        - byte
+        - bundle
+        - shoot
+        - zone
+        - pro
+        - player
+        - arena
+      design:
+        - art
+        - canvas
+        - design
+        - color
+        - pen
+        - layout
+        - deck
+        - draw
+        - studio
+        - mural
+      travel_tourism:
+        - bus
+        - room
+        - fly
+        - suit
+        - travel
+        - ticket
+        - camp
+        - go
+        - tour
+        - trip
+        - ride
+      fashion:
+        - shop
+        - dress
+        - look
+        - style
+        - fabric
+        - cloth
+        - fancy
+        - trend
+        - glam
+      sports:
+        - game
+        - coach
+        - ball
+        - up
+        - fan
+        - team
+        - player
+        - bike
+        - run
+        - base

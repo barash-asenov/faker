@@ -5,6 +5,10 @@ module Faker
     flexible :adjective
 
     class << self
+      def base
+        fetch('adjective.base')
+      end
+
       ##
       # Produces a positive adjective.
       #
